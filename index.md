@@ -15,7 +15,6 @@ Tento web slouží jako centrální vstupní bod ke zdrojům, návodům a prakti
 
 <div class="tile">
   [Otevřený přístup k publikacím](open-access.md)
-  {:.tile-link}
   <p>
     Nástroje, licencování, repozitáře a otázky open‑access publikování.
   </p>
