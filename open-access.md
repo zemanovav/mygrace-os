@@ -1,3 +1,9 @@
+---
+title: Open Access
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Open Access – Otevřený přístup k publikacím
 
 Tato sekce obsahuje informace, doporučení a zdroje týkající se otevřeného přístupu k vědeckým publikacím.
