@@ -6,11 +6,13 @@ title: "Jak uložit výzkumná data do repozitáře"
 
 # Jak uložit výzkumná data do repozitáře
 
-Uložení výzkumných dat do důvěryhodného repozitáře je povinností příjemce projektu. Níže najdete praktický postup, jak data připravit a uložit tak, aby byla dlouhodobě dostupná a znovu použitelná.
+Uložení výzkumných dat do důvěryhodného repozitáře je povinností příjemce projektu. Níže najdete praktický postup, jak data připravit a uložit tak, aby byla dlouhodobě dostupná a znovu použitelná. 
+
+Všechny aspekty správy výzkumných dat je vhodné konzultovat s **data stewardkou projektu**.
 
 ---
 
-## 1) Připravte data k uložení
+## 1) Připravit data k uložení
 
 V projektu jsou využívány různé typy dat, přičemž některé z nich jsou již bezpečně uložené a spravováné příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
 V projektu zároveň vzniká řada nových dat, která jsou popsána v DMP. Informace o nich je v DMP průběžně aktualizována. U těchto dat je důležité rozhodnout, zda je sdílet lze nebo to z oprávněných důvodů není možné. Otevřený přístup k datům se řídí zásadou „otevřené jak jen možno, uzavřené jen jak nutno“ s ohledem na soukromí, ochranu osobních údajů, důvěrnost, oprávněné obchodní zájmy a práva DV třetích stran, bezpečnost státu nebo jiné oprávněné zájmy a jiná oprávněná omezení.
@@ -20,20 +22,21 @@ Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore 
 
 ---
 
-## 2) Připravte popis dat = metadata
-Metadata pomáhají ostatním data najít a pochopit. Minimálně by měla obsahovat:
+## 2) Připravit popis dat = metadata
+Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahovat všechny údaje dle [Obecného doporučení pro metadatový popis výzkumných výstupů a výzkumných dat](https://doi.org/10.48813/yt6w-6h15):
 
 - název datasetu  
 - celá jména autorů, jejich afiliaci a jejich trvalý identifikátor ORCID
 - datum zveřejnění
 - vydavatel (mateřská instituce autora) a její trvalý identifikátor ROR  
 - popis dat (co obsahují, jak vznikla)
-- pokud nebudou data zveřejněna, tak odůvodnění
-- pokud budou data zveřejněna, tak licenci(ideálně **CC BY 4.0** a pokud jinou, tak je třeba výběr varianty licence odůvodnit)  
+- pokud budou data zveřejněna, tak licenci(ideálně **CC BY 4.0** a pokud jinou, tak je třeba výběr varianty licence odůvodnit)
+- pokud nebudou data zveřejněna, tak odůvodnění tohoto rozhodnutí
+- návaznost na financování
 
 ---
 
-## 3) Připravte README soubor
+## 3) Připravit README soubor
 README je stručný průvodce datasetem. Měl by obsahovat:
 
 - metadata
@@ -45,7 +48,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 
 ---
 
-## 4) Data uložte do důvěryhodného repozitáře:
+## 4) Vybrat vhodný důvěryhodný repozitář:
 
 - oborový repozitář
       např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/)
@@ -55,29 +58,11 @@ README je stručný průvodce datasetem. Měl by obsahovat:
       využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava)
 
 
-💡 **Tip:** Repozitář by měl umožnit přidělení DOI nebo jiného perzistentního identifikátoru.
-
----
-
-## 5) Nahrajte data do repozitáře
-Při nahrávání:
-
-- vložte datové soubory  
-- přidejte metadata  
-- připojte README  
-- nastavte licenci  
-- určete, zda jsou data otevřená nebo částečně omezená  
-- zkontrolujte, zda repozitář vygeneroval DOI  
-
----
-
-## 6) Zkontrolujte záznam po uložení
-Po uložení ověřte:
-
-- že jsou data dostupná  
-- že metadata jsou kompletní  
-- že odkaz (DOI) funguje  
-- že je uvedena správná licence  
+### Důležitá pravidla pro zveřejňování výzkumných dat
+- Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI
+- Pokud data obsahují osobní a citlivé údaje, musí se data anonymizovat
+- Neanonymizovaná data nikdy nesdílíme ani neukládáme do repozitáře
+- V informovaném souhlasu by se měl respondent vyjádřit k tomu, jak má být s daty nakládáno (zda mohou být uložena v repozitáři a zveřejněna)
 
 ---
 
