@@ -27,9 +27,13 @@ Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a admini
 ## 📬 Kontakty
 
 Máte dotazy k otevřenému přístupu k publikacím? Primárně kontaktujte Vaši institucionální podporu Open Science.
+
 [Ostravská univerzita](https://www.osu.cz/open-science/kontakty/)
+
 [Ústavy AV ČR](https://openscience.lib.cas.cz/contacts/)
+
 Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete obrátit na **Data Stewardku projektu**, která poskytuje metodickou podporu, konzultace a pomoc s praktickými kroky.
+
 **E‑mail:** zemanova@ucl.cas.cz (Veronika Zemanová, Ústav pro českou literaturu AV ČR)
 
 ---
