@@ -1,17 +1,17 @@
 ---
-title: Otevřený přístup k publikacím
-permalink: /open-access/
+title: Správa výzkumných dat
+permalink: /research-data/
 ---
 
-# Otevřený přístup k publikacím
+# Správa výzkumných dat
 
-Otevřený přístup znamená, že výsledky výzkumu jsou dostupné bez bariér pro čtenáře.
+Správa výzkumných dat zahrnuje plánování, ukládání, popis, sdílení a dlouhodobé uchování dat.
 
 ## Co sem můžeš doplnit
 
-- Co je open access.
-- Jak fungují repozitáře.
-- Jaká jsou licenční pravidla.
-- Jak publikovat legálně a srozumitelně.
+- Zásady práce s daty.
+- Metadata a dokumentace.
+- Verzování a zálohování.
+- Sdílení dat v repozitáři.
 
 [← Zpět na hlavní stránku](index.md)
