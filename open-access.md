@@ -1,10 +1,8 @@
 ---
-title: "Otevřený přístup k publikacím"
+title: "Otevřený přístup"
 ---
 
 <link rel="stylesheet" href="assets/style.css">
-
-# Otevřený přístup k publikacím (Open Access)
 
 V projektu **MyGRACE** je příjemce povinen zajistit otevřený přístup k publikačním výsledkům typu **J – recenzovaný odborný článek**.  
 U ostatních typů výsledků (B – odborná kniha, C – kapitola v odborné knize, D – stať ve sborníku) nebo u článků, kde je korespondenční autor afiliován výhradně v zahraničí, není otevřený přístup povinný, je ale doporučován a velmi vítán.
@@ -43,15 +41,7 @@ Doporučení: Ústavy AV ČR využívají repozitář ASEP, Ostravská univerzit
 
 ---
 
-### 3) Poskytnutí informací o souvisejících výstupech
-Součástí metadat v repozitáři musí být také:
-
-- odkazy na další výstupy výzkumu,  
-- nástroje nebo data potřebná k ověření závěrů článku.
-
----
-
-### 4) Zachování autorských majetkových práv
+### 3) Zachování autorských majetkových práv
 Autoři/příjemce musí při uzavírání smlouvy s vydavatelem:
 
 - **nepřevádět majetková práva**,  
@@ -60,6 +50,13 @@ Autoři/příjemce musí při uzavírání smlouvy s vydavatelem:
 
 ---
 
+### 4) Poskytnutí informací o souvisejících výstupech
+Součástí metadat v repozitáři musí být také:
+
+- odkazy na další výstupy výzkumu,  
+- nástroje nebo data potřebná k ověření závěrů článku.
+
+---
 ### 5) Způsobilé náklady
 **Autorské publikační poplatky (APC)** za otevřený přístup jsou **způsobilým nákladem projektu**.
 
