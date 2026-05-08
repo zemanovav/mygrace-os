@@ -1,3 +1,9 @@
+---
+title: Research Data
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # Research Data – Správa výzkumných dat
 
 Tato stránka se věnuje správě, sdílení a archivaci výzkumných dat.
