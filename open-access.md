@@ -31,13 +31,14 @@ Autoři mohou při komunikaci s editory při zasílání rukopisu k publikován�
 ---
 
 ### 2) Uložení článku do důvěryhodného repozitáře
-Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu z těchto verzí:
+Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu z těchto verzí do **důvěryhodného repozitáře**:
 
 - **finální vydavatelskou verzi** (konečná verze v sazbě časopisu), nebo  
 - **akceptovaný rukopis (AAM)** po recenzním řízení.
 
-Uložení musí být provedeno do **důvěryhodného repozitáře**.
-Doporučení: Ústavy AV ČR využívají repozitář ASEP, Ostravská univerzita Zenodo.
+💡 **Doporučení:** 
+Ústavy AV ČR využívají repozitář [ASEP](https://asep.lib.cas.cz/) 
+Ostravská univerzita [Zenodo](https://zenodo.org/communities/university-of-ostrava))
 
 ---
 
