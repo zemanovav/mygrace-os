@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 <link rel="stylesheet" href="assets/style.css">
 
 # MyGRACE – Otevřená věda
