@@ -15,7 +15,9 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 ### [📚 Otevřený přístup k publikacím](open-access.md)
 
-### [💾 Správa výzkumných dat](research-data.md)
+### [📊 Správa výzkumných dat](research-data.md)
+
+### [💾 Uložení dat do repozitáře](ulozeni-dat.md)
 
 ### [❓ Nejčastější otázky (FAQ)](faq.md)
 
