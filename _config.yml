@@ -1,4 +1,15 @@
 title: mygrace-os
-description: Rozcestník k otevřenému přístupu a správě výzkumných dat
+description: "Rozcestník k otevřenému přístupu a správě výzkumných dat"
+
+# Jekyll
 markdown: kramdown
+highlighter: rouge
 theme: minima
+
+# URL
+permalink: pretty
+paginate: 5
+
+# Uděl si později volitelně:
+# logo: /assets/logo.svg
+# show_excerpts: false
