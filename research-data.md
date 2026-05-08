@@ -1,5 +1,5 @@
 ---
-title: Research Data
+title: Správa výzkumných dat
 ---
 
 <link rel="stylesheet" href="assets/style.css">
