@@ -1,3 +1,9 @@
+---
+title: MyGrace-OS
+---
+
+<link rel="stylesheet" href="assets/style.css">
+
 # MyGrace-OS
 
 Vítejte na pracovním webu projektu **MyGrace-OS**.  
