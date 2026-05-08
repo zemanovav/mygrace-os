@@ -5,13 +5,16 @@ permalink: /research-data/
 
 # Správa výzkumných dat
 
-Správa výzkumných dat zahrnuje plánování, ukládání, popis, sdílení a dlouhodobé uchování dat.
+„Správa výzkumných dat“ (Research Data Management, RDM) zahrnuje plánování, vytváření, popis, organizaci, ukládání, zálohování, sdílení a dlouhodobé uchování výzkumných dat.  
+Cílem je zajistit, aby data byla využitelná, ověřitelná a (kde je vhodné) přístupná dalšímu výzkumu.
 
-## Co sem můžeš doplnit
+## Klíčová témata
 
-- Zásady práce s daty.
-- Metadata a dokumentace.
-- Verzování a zálohování.
-- Sdílení dat v repozitáři.
+- Co patří do výzkumné datovky (data, kódy, metoda, dokumentace).
+- Role datového plánu (DMP) a jeho vztah k grantům.
+- Metainformace a standardy popisu dat.
+- Organizace složek, názvy souborů a verzování.
+- Bezpečnost, zálohy a základní politika pro sdílení.
+- Praktické kroky pro uložení dat do vědeckého repozitáře.
 
 [← Zpět na hlavní stránku](index.md)
