@@ -37,7 +37,7 @@ Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu
 - **akceptovaný rukopis (AAM)** po recenzním řízení.
 
 💡 **Doporučení:** 
-Ústavy AV ČR využívají repozitář [ASEP](https://asep.lib.cas.cz/) | Ostravská univerzita [Zenodo](https://zenodo.org/communities/university-of-ostrava))
+Ústavy AV ČR využívají repozitář [ASEP](https://asep.lib.cas.cz/) | Ostravská univerzita [Zenodo](https://zenodo.org/communities/university-of-ostrava)
 
 ---
 
