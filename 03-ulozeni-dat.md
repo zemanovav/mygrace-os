@@ -12,7 +12,7 @@ Všechny aspekty správy výzkumných dat je vhodné konzultovat s **data stewar
 ---
 <br>
 
-## 🏷️ Připravit data k uložení
+## 📦 Připravit data k uložení
 
 V projektu jsou využívány různé typy dat, přičemž některé z nich jsou již bezpečně uložené a spravováné příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
 
