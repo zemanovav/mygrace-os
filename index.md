@@ -26,7 +26,7 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 
 ---
-
+<br> <br>
 
 ## 👥 Pro koho je web určen
 
