@@ -11,7 +11,6 @@ Projekt **Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitn
 Tento web slouží jako přehled povinností, doporučení a praktických kroků, které musí řešitelé projektu dodržet.
 
 ---
-<br>
 
 ## 🔗 Rychlý rozcestník
 
@@ -24,15 +23,12 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 ### [❓ Nejčastější otázky (FAQ)](04-faq.md)
 
 ---
-<br>
 
 ## 👥 Pro koho je web určen
 
 Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a administrátorům, kteří potřebují splnit povinnosti otevřené vědy a hledají praktické návody, jak na to.
 
-
 ---
-<br>
 
 ## 📬 Kontakty
 
@@ -57,7 +53,6 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 [MyGRACE – Otevřená věda](ccccc) © Veronika Zemanová, 2026. Dílo je licencováno pod [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.cs).
 
-<br>
 ---
 
 *Poslední aktualizace: {{ site.time }}*
