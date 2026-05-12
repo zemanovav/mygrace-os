@@ -44,9 +44,7 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 ---
 
-<p align="center">
-  <img src="assets/logo.png" alt="Logo projektu" style="max-width: 300px; width: 100%; height: auto;">
-</p>
+![Logo projektu](assets/logo.png)
 
 *Toto dílo vzniklo v rámci projektu Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitních věd, reg. č. CZ.02.01.01/00/23_025/0008741, řešeného v Ústavu pro českou literaturu AV ČR v.v.i. a spolufinancovaného Evropskou unií.*
 
