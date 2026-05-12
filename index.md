@@ -10,8 +10,6 @@ title: ""
 Projekt **Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitních věd (MyGRACE)** podporuje otevřenou vědu, transparentní sdílení výsledků a odpovědnou správu výzkumných dat.  
 Tento web slouží jako přehled povinností, doporučení a praktických kroků, které musí řešitelé projektu dodržet.
 
-<div style="height: 10px;"></div>
-
 ---
 <br>
 
@@ -24,8 +22,6 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 ### [💾 Uložení dat do repozitáře](03-ulozeni-dat.md)
 
 ### [❓ Nejčastější otázky (FAQ)](04-faq.md)
-
-<div style="height: 10px;"></div>
 
 ---
 <br>
