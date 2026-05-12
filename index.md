@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "MyGRACE – Otevřená věda"
 ---
 
 <link rel="stylesheet" href="assets/style.css">
