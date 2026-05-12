@@ -20,7 +20,7 @@ U ostatních typů výsledků (B – odborná kniha, C – kapitola v odborné k
 - pod licencí **CC BY 4.0**.
 
 Pokud vydavatel CC BY neumožňuje, je možné použít restriktivnější licenci, ale **okamžitý otevřený přístup v repozitáři musí být zachován**.
-V takovém případě se doporučuje, aby autor časopis kontaktoval, odkázal se na [Open Science Policy](https://opjak.cz/wp-content/uploads/2025/07/P-JAC-Open-Science-Policy.pdf) a vydavatele požádal, aby článek vydal pod CC BY 4.0. (naposled nám takhle vyšli vstříc v čas. Brücken, umožňuje to i Česká literatura)
+V takovém případě se doporučuje, aby autor časopis kontaktoval, odkázal se na pravidla projektu [Open Science Policy](https://opjak.cz/wp-content/uploads/2025/07/P-JAC-Open-Science-Policy.pdf) a vydavatele požádal, aby článek vydal pod CC BY 4.0. (naposled nám takhle vyšli vstříc v čas. Brücken, umožňuje to i Česká literatura)
 
 Autoři mohou při komunikaci s editory při zasílání rukopisu k publikování uvádět tento text:
 
