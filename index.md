@@ -13,13 +13,13 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 ## 🔗 Rychlý rozcestník
 
-### [📚 Otevřený přístup k publikacím](open-access.md)
+### [📚 Otevřený přístup k publikacím](01-open-access.md)
 
-### [📊 Správa výzkumných dat](research-data.md)
+### [📊 Správa výzkumných dat](02-research-data.md)
 
-### [💾 Uložení dat do repozitáře](ulozeni-dat.md)
+### [💾 Uložení dat do repozitáře](03-ulozeni-dat.md)
 
-### [❓ Nejčastější otázky (FAQ)](faq.md)
+### [❓ Nejčastější otázky (FAQ)](04-faq.md)
 
 
 ---
