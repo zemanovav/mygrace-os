@@ -7,7 +7,7 @@ title: ""
 
 # MyGRACE – otevřená věda
 
-Projekt **Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitních věd (MyGRACE)** podporuje otevřenou vědu, transparentní sdílení výsledků a odpovědnou správu výzkumných dat.  
+Projekt [**Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitních věd (MyGRACE)**](https://ucl.cas.cz/mygrace/) podporuje otevřenou vědu, transparentní sdílení výsledků a odpovědnou správu výzkumných dat.  
 Tento web slouží jako přehled povinností, doporučení a praktických kroků, které musí řešitelé projektu dodržet.
 
 ---
