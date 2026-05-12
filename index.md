@@ -6,7 +6,7 @@ title: ""
 
 # MyGRACE – Otevřená věda
 
-Projekt **MyGRACE** podporuje otevřenou vědu, transparentní sdílení výsledků a odpovědnou správu výzkumných dat.  
+Projekt **Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitních věd (MyGRACE)** podporuje otevřenou vědu, transparentní sdílení výsledků a odpovědnou správu výzkumných dat.  
 Tento web slouží jako přehled povinností, doporučení a praktických kroků, které musí řešitelé projektu dodržet.
 
 ---
