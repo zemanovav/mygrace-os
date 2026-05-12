@@ -46,6 +46,7 @@ Příklady doporučených formátů pro různé typy dat:
 - textová data - PDF/A, ODT, Microsoft Word (.doc/.docx), TXT
 - obrázková data - JPEG, TIFF, PNG
 - tabulková data - CSV, ODT, Microsoft Excel
+
 Doporučené formáty jsou dostupné na webech některých organizací, které se zabývají správou dat, např. [DANS](https://dans.knaw.nl/en/file-formats/) nebo [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/)
 
 ---
