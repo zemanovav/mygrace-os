@@ -24,7 +24,7 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 ### [❓ Nejčastější otázky (FAQ)](04-faq.md)
 
-<br>
+
 ---
 <br>
 
