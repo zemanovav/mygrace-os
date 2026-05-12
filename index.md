@@ -13,6 +13,7 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 ---
 <br>
+
 ## 🔗 Rychlý rozcestník
 
 ### [📚 Otevřený přístup k publikacím](01-open-access.md)
@@ -26,6 +27,7 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 ---
 <br>
+
 ## 👥 Pro koho je web určen
 
 Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a administrátorům, kteří potřebují splnit povinnosti otevřené vědy a hledají praktické návody, jak na to.
@@ -33,6 +35,7 @@ Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a admini
 
 ---
 <br>
+
 ## 📬 Kontakty
 
 Máte dotazy k otevřenému přístupu k publikacím? Primárně kontaktujte Vaši institucionální podporu Open Science.
@@ -48,6 +51,7 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 ---
 <br>
+
 ![Logo projektu](assets/logo.png)
 
 
