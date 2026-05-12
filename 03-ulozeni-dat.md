@@ -1,5 +1,5 @@
 ---
-title: "Jak uložit výzkumná data do repozitáře"
+title: "Jak uložit data do repozitáře"
 ---
 
 <link rel="stylesheet" href="assets/style.css">
