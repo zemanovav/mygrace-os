@@ -25,5 +25,5 @@ Je však nutné ověřit, **jaká máte oprávnění** s těmito daty nakládat 
 ---
 <br>
 
-## 🔙 Zpět na hlavní stránku
+## [🔙 Zpět na hlavní stránku](index.md)
 [← Zpět na hlavní stránku](index.md)
