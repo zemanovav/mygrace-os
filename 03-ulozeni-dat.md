@@ -14,11 +14,11 @@ Všechny aspekty správy výzkumných dat je vhodné konzultovat s **data stewar
 
 ## 📦 Připravit data k uložení
 
-V projektu jsou využívány různé typy dat, přičemž některé z nich jsou již bezpečně uložené a spravováné příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
+V projektu jsou využívány různé typy dat, přičemž některé z nich jsou již bezpečně uložené a spravované příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
 
 V projektu zároveň vzniká řada nových dat, která jsou popsána v DMP. Informace o nich je v DMP průběžně aktualizována. U těchto dat je důležité rozhodnout, zda je sdílet lze nebo to z oprávněných důvodů není možné. Otevřený přístup k datům se řídí zásadou „otevřené jak jen možno, uzavřené jen jak nutno“ s ohledem na soukromí, ochranu osobních údajů, důvěrnost, oprávněné obchodní zájmy a práva DV třetích stran, bezpečnost státu nebo jiné oprávněné zájmy a jiná oprávněná omezení.
 
-Pokud data lze sdílet, vytvoříme k nim popis a uložíme do repozitáře. Pokud je sdílet nelze, musí se v repozitáři alespoň popsat a uvést kontaktu, kam se lze s dotazy na data obrátit.
+Pokud data lze sdílet, vytvoříme k nim popis a uložíme do repozitáře. Pokud je sdílet nelze, musí se v repozitáři alespoň popsat a uvést kontakt, kam se lze s dotazy na data obrátit.
 
 Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072)  
 
