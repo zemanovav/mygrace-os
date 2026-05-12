@@ -27,7 +27,6 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 ---
 <br>
-
 ## 👥 Pro koho je web určen
 
 Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a administrátorům, kteří potřebují splnit povinnosti otevřené vědy a hledají praktické návody, jak na to.
