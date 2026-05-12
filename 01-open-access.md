@@ -70,5 +70,4 @@ Součástí metadat v repozitáři musí být také:
 ---
 <br>
 
-## 🔙 Zpět na hlavní stránku
-[← Zpět na hlavní stránku](index.md)
+## [🔙 Zpět na hlavní stránku](index.md)
