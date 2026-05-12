@@ -32,7 +32,7 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 
 Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a administrátorům, kteří potřebují splnit povinnosti otevřené vědy a hledají praktické návody, jak na to.
 
-<br>
+
 ---
 <br>
 
@@ -48,7 +48,7 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 **E‑mail:** zemanova@ucl.cas.cz (Veronika Zemanová, Ústav pro českou literaturu AV ČR)
 
-<br>
+
 ---
 <br>
 
