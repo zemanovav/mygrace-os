@@ -4,23 +4,23 @@ title: "Správa výzkumných dat"
 
 <link rel="stylesheet" href="assets/style.css">
 
-# Správa výzkumných dat
+# 📊 Správa výzkumných dat
 
 Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení projektu byla spravována **odpovědně a v souladu s FAIR principy**. To zahrnuje zejména vypracování a aktualizaci Plánu správy dat, ukládání dat do důvěryhodných repozitářů a zajištění jejich dostupnosti v souladu s pravidly programu.
 
 ---
 <br>
 
-## 📌 Povinnosti příjemce
+## 📋 Povinnosti příjemce
 
-### 1) Vypracování a aktualizace Plánu správy dat (DMP)
+### 🗂️ Vypracování a aktualizace Plánu správy dat (DMP)
 Příjemce musí vytvořit Plán správy dat v souladu s FAIR principy a pravidelně jej aktualizovat.  
 DMP je dostupný členům týmu projektu MyGRACE ve sdíleném cloudu.
 
 ---
 <br>
 
-### 2) Uložení výzkumných dat do důvěryhodného repozitáře
+### 💾 Uložení výzkumných dat do důvěryhodného repozitáře
 Příjemce musí uložit data **co nejdříve** po jejich vytvoření, v souladu s Plánem správy dat.  
 Ukládají se zejména:
 
@@ -33,7 +33,7 @@ Není vyžadováno ukládání *veškerých* dat — záleží na oborových zvy
 ---
 <br>
 
-### 3) Zajištění otevřeného přístupu k datům
+### 🔓 Zajištění otevřeného přístupu k datům
 Data uložená v repozitáři mají být zpřístupněna:
 
 - **co nejotevřeněji**,  
@@ -45,7 +45,7 @@ Správa dat se řídí pravidlem: „otevřené jak jen možno, uzavřené jen j
 ---
 <br>
 
-### 4) Poskytnutí informací o dalších výstupech
+### 🔗 Poskytnutí informací o dalších výstupech
 Součástí metadat v repozitáři musí být také:
 
 - odkazy na další výstupy výzkumu,  
@@ -54,7 +54,7 @@ Součástí metadat v repozitáři musí být také:
 ---
 <br>
 
-### 5) Metadata musí být veřejně dostupná
+### 🏷️ Metadata musí být veřejně dostupná
 Metadata uložených dat musí být:
 
 - **veřejně dostupná**,  
