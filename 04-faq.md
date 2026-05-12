@@ -8,6 +8,7 @@ Tato stránka shrnuje nejčastější dotazy týkající se správy výzkumných
 V případě nejasností nebo specifických situací se obraťte na data stewardku projektu.
 
 ---
+<br>
 
 ## 1) Musím do repozitáře ukládat seznam primární a sekundární literatury, který uvádím v článku publikovaném v Open Access?
 
@@ -16,6 +17,7 @@ Bibliografické soupisy uvedené v publikaci se **znovu neukládají** do repozi
 Do repozitáře patří pouze **výzkumná data**, nikoli běžné citační seznamy publikací.
 
 ---
+<br>
 
 ## 2) Když si pořídím fotokopie pramenů nebo fotodokumentaci fyzických objektů, jsou to data pro repozitář?
 
