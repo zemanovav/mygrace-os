@@ -14,6 +14,7 @@ Tento web slouží jako přehled povinností, doporučení a praktických kroků
 ---
 
 
+
 ## 🔗 Rychlý rozcestník
 
 ### [📚 Otevřený přístup k publikacím](01-open-access.md)
@@ -34,6 +35,7 @@ Tento web je určen členům týmu projektu **MyGRACE**, výzkumníkům a admini
 
 
 ---
+
 
 
 ## 📬 Kontakty
