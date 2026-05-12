@@ -64,5 +64,4 @@ Metadata uložených dat musí být:
 ---
 <br>
 
-## 🔙 Zpět na hlavní stránku
-[← Zpět na hlavní stránku](index.md)
+## [🔙 Zpět na hlavní stránku](index.md)
