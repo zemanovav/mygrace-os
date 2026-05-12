@@ -72,6 +72,18 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 - obecný repozitář Zenodo
       využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava)
 
+---
+
+### Oprávněné důvody, proč omezit přístup k některým nebo všem výzkumným datům
+- právo na ochranu soukromí,
+- ochrana osobních údajů,
+- důvěrnost údajů a dat,
+- oprávněné obchodní zájmy, obchodní tajemství, a práva duševního vlastnictví třetích stran,
+- bezpečnost státu,
+- rozpor s oprávněnými zájmy příjemce, včetně komerčního využití dat,
+- nebo jiné oprávněné zájmy a jiná oprávněná omezení.
+
+---
 
 ### Důležitá pravidla pro zveřejňování výzkumných dat
 - Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI
