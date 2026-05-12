@@ -42,7 +42,6 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 **E‑mail:** zemanova@ucl.cas.cz (Veronika Zemanová, Ústav pro českou literaturu AV ČR)
 
-
 ---
 
 ![Logo projektu](assets/logo.png)
