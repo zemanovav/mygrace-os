@@ -42,9 +42,9 @@ Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu
 Ústavy AV ČR využívají repozitář [ASEP](https://asep.lib.cas.cz/) | Ostravská univerzita [Zenodo](https://zenodo.org/communities/university-of-ostrava)
 
 ---
+<br>
 
 ### ✍️ Zachování autorských majetkových práv
-<br>
 
 Autoři/příjemce musí při uzavírání smlouvy s vydavatelem:
 
