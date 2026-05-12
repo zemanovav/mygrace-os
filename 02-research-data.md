@@ -8,7 +8,6 @@ title: "Správa výzkumných dat"
 Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení projektu byla spravována **odpovědně a v souladu s FAIR principy**. To zahrnuje zejména vypracování a aktualizaci Plánu správy dat, ukládání dat do důvěryhodných repozitářů a zajištění jejich dostupnosti v souladu s pravidly programu.
 
 ---
-<br>
 
 ## Povinnosti příjemce
 
@@ -17,7 +16,6 @@ Příjemce musí vytvořit Plán správy dat v souladu s FAIR principy a pravide
 DMP je dostupný členům týmu projektu MyGRACE ve sdíleném cloudu.
 
 ---
-<br>
 
 ### 💾 Uložení výzkumných dat do důvěryhodného repozitáře
 Příjemce musí uložit data **co nejdříve** po jejich vytvoření, v souladu s Plánem správy dat.  
@@ -30,7 +28,6 @@ Ukládají se zejména:
 Není vyžadováno ukládání *veškerých* dat — záleží na oborových zvyklostech a typu dat.
 
 ---
-<br>
 
 ### 🔓 Zajištění otevřeného přístupu k datům
 Data uložená v repozitáři mají být zpřístupněna:
@@ -42,7 +39,6 @@ Data uložená v repozitáři mají být zpřístupněna:
 Správa dat se řídí pravidlem: „otevřené jak jen možno, uzavřené jen jak nutno“ – pokud není možné z oprávněných důvodů poskytnout data v otevřeném přístupu, **musí to být odůvodněno v Plánu správy dat** a pravidelně přezkoumáváno.
 
 ---
-<br>
 
 ### 🔗 Poskytnutí informací o dalších výstupech
 Součástí metadat v repozitáři musí být také:
@@ -51,7 +47,6 @@ Součástí metadat v repozitáři musí být také:
 - nástroje, instrumenty nebo software potřebný k opětovnému využití či validaci dat.
 
 ---
-<br>
 
 ### 🏷️ Metadata musí být veřejně dostupná
 Metadata uložených dat musí být:
@@ -62,6 +57,5 @@ Metadata uložených dat musí být:
 - v rozsahu, který neporušuje legitimní omezení (GDPR, obchodní tajemství, bezpečnostní aspekty).
 
 ---
-<br>
 
 ## [🔙 Zpět na hlavní stránku](index.md)
