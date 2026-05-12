@@ -4,7 +4,6 @@ title: "Správa výzkumných dat"
 
 <link rel="stylesheet" href="assets/style.css">
 
-# 📊 Správa výzkumných dat
 
 Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení projektu byla spravována **odpovědně a v souladu s FAIR principy**. To zahrnuje zejména vypracování a aktualizaci Plánu správy dat, ukládání dat do důvěryhodných repozitářů a zajištění jejich dostupnosti v souladu s pravidly programu.
 
