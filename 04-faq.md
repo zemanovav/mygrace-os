@@ -2,7 +2,7 @@
 title: "FAQ"
 ---
 
-Tato stránka shrnuje nejčastější dotazy týkající se správy výzkumných dat v projektu MyGRACE.  
+Tato stránka obsahuje nejčastější dotazy týkající se správy výzkumných dat v projektu MyGRACE a bude postupně doplňována.
 V případě nejasností nebo specifických situací se obraťte na data stewardku projektu.
 
 ---
