@@ -10,9 +10,9 @@ U ostatních typů výsledků (B – odborná kniha, C – kapitola v odborné k
 ---
 <br>
 
-## 🎯 Povinnosti příjemce
+## 📋 Povinnosti příjemce
 
-### 1) Zajištění okamžitého otevřeného přístupu
+### 🔓 Zajištění okamžitého otevřeného přístupu
 Článek musí být dostupný:
 
 - **okamžitě** (bez embarga),  
@@ -32,7 +32,7 @@ Autoři mohou při komunikaci s editory při zasílání rukopisu k publikován�
 ---
 <br>
 
-### 2) Uložení článku do důvěryhodného repozitáře
+### 💾 Uložení článku do důvěryhodného repozitáře
 Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu z těchto verzí do **důvěryhodného repozitáře**:
 
 - **finální vydavatelskou verzi** (konečná verze v sazbě časopisu), nebo  
@@ -43,7 +43,7 @@ Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu
 
 ---
 
-### 3) Zachování autorských majetkových práv
+### ✍️ Zachování autorských majetkových práv
 <br>
 
 Autoři/příjemce musí při uzavírání smlouvy s vydavatelem:
@@ -55,7 +55,7 @@ Autoři/příjemce musí při uzavírání smlouvy s vydavatelem:
 ---
 <br>
 
-### 4) Poskytnutí informací o souvisejících výstupech
+### 🔗 Poskytnutí informací o souvisejících výstupech
 Součástí metadat v repozitáři musí být také:
 
 - odkazy na další výstupy výzkumu,  
@@ -64,7 +64,7 @@ Součástí metadat v repozitáři musí být také:
 ---
 <br>
 
-### 5) Způsobilé náklady
+### 💶 Způsobilé náklady
 **Autorské publikační poplatky (APC)** za otevřený přístup jsou **způsobilým nákladem projektu**.
 
 ---
