@@ -8,7 +8,7 @@ V případě nejasností nebo specifických situací se obraťte na data steward
 ---
 <br>
 
-## ❔ Musím do repozitáře ukládat seznam primární a sekundární literatury, který uvádím v článku publikovaném v Open Access?
+## ❓ Musím do repozitáře ukládat seznam primární a sekundární literatury, který uvádím v článku publikovaném v Open Access?
 
 **Ne.**  
 Bibliografické soupisy uvedené v publikaci se **znovu neukládají** do repozitáře.  
@@ -17,7 +17,7 @@ Do repozitáře patří pouze **výzkumná data**, nikoli běžné citační sez
 ---
 <br>
 
-## ❔ Když si pořídím fotokopie pramenů nebo fotodokumentaci fyzických objektů, jsou to data pro repozitář?
+## ❓ Když si pořídím fotokopie pramenů nebo fotodokumentaci fyzických objektů, jsou to data pro repozitář?
 
 **Ano.**  
 Takové materiály jsou považovány za **výzkumná data**.  
