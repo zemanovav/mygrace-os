@@ -40,7 +40,7 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 ---
 <br>
 
-## 🗃️ Data spravovat ve vhodných formátech
+## 🗃️ Spravovat data ve vhodných formátech
 Data ukládejte v běžně používaných a ideálně otevřených formátech.
 
 Příklady doporučených formátů pro různé typy dat:
