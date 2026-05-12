@@ -67,7 +67,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 <br>
 
 ## 🏛️ Vybrat vhodný důvěryhodný repozitář
-
+Repozitář je informační systém určený k dlouhodobému uchovávání a šíření digitálních objektů, tj. zajišťující uložení, ochranu, integritu, autenticitu a zpřístupnění digitálních objektů v dlouhodobém horizontu. Existují registry repozitářů, např. [Re3data.org](https://www.re3data.org/), mezi nejčastěji využívané repozitáře v našich oborech patří:
 - oborový repozitář
       např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/),
 - institucionální repozitář
