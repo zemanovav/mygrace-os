@@ -54,7 +54,7 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 ---
 
-**Zdroje informací uvedených na tomto webu**
+**Použité zdroje**
 - Pravidla pro žadatele a příjemce – specifická část, výzva Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3. Datum účinnosti 20.1.2025
 - Metodický dopis č. 1 k pravidlům pro žadatele a příjemce – specifická část pro výzvu Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3. Datum účinnosti 2.12.2025
 - Příručka postupů otevřené vědy, verze 1.2. Datum účinnosti 23.2.2026
