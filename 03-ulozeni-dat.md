@@ -6,7 +6,7 @@ title: "Jak uložit data do repozitáře"
 
 Uložení výzkumných dat do důvěryhodného repozitáře je povinností příjemce projektu. Níže najdete praktický postup, jak data připravit a uložit tak, aby byla dlouhodobě dostupná a znovu použitelná. 
 
-Všechny aspekty správy výzkumných dat je vhodné konzultovat s **data stewardkou projektu**.
+Všechny aspekty správy výzkumných dat je vhodné konzultovat s [**data stewardkou projektu**](https://ucl.cas.cz/pracovnik/zemanova/).
 
 ---
 <br>
