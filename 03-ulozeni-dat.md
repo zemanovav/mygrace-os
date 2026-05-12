@@ -99,5 +99,4 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 
 ---
 
-## 🔙 Zpět na hlavní stránku
-[← Zpět na hlavní stránku](index.md)
+## [🔙 Zpět na hlavní stránku](index.md)
