@@ -69,7 +69,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
       např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/)
 - institucionální repozitář
       ústavy AV ČR mohou využívat [ASEP](https://asep-portal.lib.cas.cz/basic-information/dataset-repository/)
-- obecný repizitář Zenodo
+- obecný repozitář Zenodo
       využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava)
 
 
