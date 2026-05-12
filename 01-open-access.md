@@ -10,7 +10,7 @@ U ostatních typů výsledků (B – odborná kniha, C – kapitola v odborné k
 ---
 <br>
 
-## 📋 Povinnosti příjemce
+## Povinnosti příjemce
 
 ### 🔓 Zajištění okamžitého otevřeného přístupu
 Článek musí být dostupný:
