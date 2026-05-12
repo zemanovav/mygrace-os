@@ -44,19 +44,6 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 ---
 
-## 🧩 FAQ – rychlý přehled
-
-- Musím zveřejnit všechna data?  
-- Jaký je rozdíl mezi otevřeným přístupem a otevřenými daty?  
-- Co když data obsahují citlivé informace?  
-- Jak vytvořit Data Management Plan?  
-- Jaké jsou povinnosti vůči poskytovateli grantu?
-
-Podrobné odpovědi najdete na stránce:  
-👉 [FAQ](faq.md)
-
----
-
 ![Logo projektu](assets/logo.png)
 
 *Toto dílo vzniklo v rámci projektu Migrace a my: Mobilita, uprchlictví a hranice v perspektivě humanitních věd, reg. č. CZ.02.01.01/00/23_025/0008741, řešeného v Ústavu pro českou literaturu AV ČR v.v.i. a spolufinancovaného Evropskou unií.*
