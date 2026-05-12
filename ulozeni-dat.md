@@ -38,7 +38,18 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 
 ---
 
-## 3) Připravit README soubor
+## 3) Data spravovat ve vhodných formátech
+Data ukládejte v běžně používaných a ideálně otevřených formátech
+Příklady doporučených formátů pro různé typy dat:
+
+- textová data - PDF/A, ODT, Microsoft Word (.doc/.docx), TXT
+- obrázková data - JPEG, TIFF, PNG
+- tabulková data - CSV, ODT, Microsoft Excel
+Doporučené formáty jsou dostupné na webech některých organizací, které se zabývají správou dat, např. [DANS](https://dans.knaw.nl/en/file-formats/) nebo [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/)
+
+---
+
+## 4) Připravit README soubor
 README je stručný průvodce datasetem. Měl by obsahovat:
 
 - metadata
@@ -50,7 +61,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 
 ---
 
-## 4) Vybrat vhodný důvěryhodný repozitář:
+## 5) Vybrat vhodný důvěryhodný repozitář:
 
 - oborový repozitář
       např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/)
