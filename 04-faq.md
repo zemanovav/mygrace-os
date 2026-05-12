@@ -20,7 +20,7 @@ Do repozitáře patří pouze **výzkumná data**, nikoli běžné citační sez
 ## ❓ Když si pořídím fotokopie pramenů nebo fotodokumentaci fyzických objektů, jsou to data pro repozitář?
 
 Takové materiály jsou považovány za **výzkumná data**.  
-Je však nutné ověřit, **jaká máte oprávnění** s těmito daty nakládat (autorská a majetková práva) a zda je můžete archivovat a zevřejnit v repozitáři.
+Je však nutné ověřit, **jaká máte oprávnění** s těmito daty nakládat (autorská a majetková práva) a zda je můžete archivovat a zveřejnit v repozitáři.
 
 ---
 <br>
