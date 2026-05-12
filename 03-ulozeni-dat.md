@@ -5,7 +5,7 @@ title: "Jak uložit data do repozitáře"
 
 <link rel="stylesheet" href="assets/style.css">
 
-# Jak uložit výzkumná data do repozitáře
+# 📦 Jak uložit výzkumná data do repozitáře
 
 Uložení výzkumných dat do důvěryhodného repozitáře je povinností příjemce projektu. Níže najdete praktický postup, jak data připravit a uložit tak, aby byla dlouhodobě dostupná a znovu použitelná. 
 
@@ -14,7 +14,7 @@ Všechny aspekty správy výzkumných dat je vhodné konzultovat s **data stewar
 ---
 <br>
 
-## 1) Připravit data k uložení
+## 🏷️ Připravit data k uložení
 
 V projektu jsou využívány různé typy dat, přičemž některé z nich jsou již bezpečně uložené a spravováné příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
 
@@ -27,7 +27,7 @@ Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore 
 ---
 <br>
 
-## 2) Připravit popis dat = metadata
+## 🏷️ Připravit popis dat = metadata
 Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahovat všechny údaje dle [Obecného doporučení pro metadatový popis výzkumných výstupů a výzkumných dat](https://doi.org/10.48813/yt6w-6h15):
 
 - název datasetu  
@@ -42,7 +42,7 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 ---
 <br>
 
-## 3) Data spravovat ve vhodných formátech
+## 🗃️ Data spravovat ve vhodných formátech
 Data ukládejte v běžně používaných a ideálně otevřených formátech.
 
 Příklady doporučených formátů pro různé typy dat:
@@ -56,7 +56,7 @@ Doporučené formáty jsou dostupné na webech některých organizací, které s
 ---
 <br>
 
-## 4) Připravit README soubor
+## 📝 Připravit README soubor
 README je stručný průvodce datasetem. Měl by obsahovat:
 
 - metadata
@@ -69,7 +69,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 ---
 <br>
 
-## 5) Vybrat vhodný důvěryhodný repozitář:
+## 🏛️ Vybrat vhodný důvěryhodný repozitář
 
 - oborový repozitář
       např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/)
@@ -81,7 +81,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 ---
 <br>
 
-### Oprávněné důvody, proč omezit přístup k některým nebo všem výzkumným datům
+### 🔐 Oprávněné důvody, proč omezit přístup k některým nebo všem výzkumným datům
 - právo na ochranu soukromí,
 - ochrana osobních údajů,
 - důvěrnost údajů a dat,
@@ -93,7 +93,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 ---
 <br>
 
-### Důležitá pravidla pro zveřejňování výzkumných dat
+### 📢 Důležitá pravidla pro zveřejňování výzkumných dat
 - Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI
 - Pokud data obsahují osobní a citlivé údaje, musí se data anonymizovat
 - Neanonymizovaná data nikdy nesdílíme ani neukládáme do repozitáře
