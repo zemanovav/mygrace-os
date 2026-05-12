@@ -9,6 +9,7 @@ Uložení výzkumných dat do důvěryhodného repozitáře je povinností pří
 Všechny aspekty správy výzkumných dat je vhodné konzultovat s **data stewardkou projektu**.
 
 ---
+<br>
 
 ## 📦 Připravit data k uložení
 
@@ -21,6 +22,7 @@ Pokud data lze sdílet, vytvoříme k nim popis a uložíme do repozitáře. Pok
 Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072)  
 
 ---
+<br>
 
 ## 🏷️ Připravit popis dat = metadata
 Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahovat všechny údaje dle [Obecného doporučení pro metadatový popis výzkumných výstupů a výzkumných dat](https://doi.org/10.48813/yt6w-6h15):
@@ -35,6 +37,7 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 - návaznost na financování
 
 ---
+<br>
 
 ## 🗃️ Spravovat data ve vhodných formátech
 Data ukládejte v běžně používaných a ideálně otevřených formátech.
@@ -48,6 +51,7 @@ Příklady doporučených formátů pro různé typy dat:
 Doporučené formáty jsou dostupné na webech některých organizací, které se zabývají správou dat, např. [DANS](https://dans.knaw.nl/en/file-formats/) nebo [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/)
 
 ---
+<br>
 
 ## 📝 Připravit README soubor
 README je stručný průvodce datasetem. Měl by obsahovat:
@@ -60,6 +64,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 - informace o případných omezeních a doporučení pro použití  
 
 ---
+<br>
 
 ## 🏛️ Vybrat vhodný důvěryhodný repozitář
 
@@ -71,6 +76,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
       využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava)
 
 ---
+<br>
 
 ### 🔐 Oprávněné důvody, proč omezit přístup k některým nebo všem výzkumným datům
 - právo na ochranu soukromí,
@@ -82,6 +88,7 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 - nebo jiné oprávněné zájmy a jiná oprávněná omezení.
 
 ---
+<br>
 
 ### 📢 Důležitá pravidla pro zveřejňování výzkumných dat
 - Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI
@@ -90,5 +97,6 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 - V informovaném souhlasu by se měl respondent vyjádřit k tomu, jak má být s daty nakládáno (zda mohou být uložena v repozitáři a zveřejněna)
 
 ---
+<br>
 
 ## [🔙 Zpět na hlavní stránku](index.md)
