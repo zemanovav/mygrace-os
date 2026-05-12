@@ -40,7 +40,7 @@ Máte dotazy k otevřenému přístupu k publikacím? Primárně kontaktujte Va�
 
 Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete obrátit na **Data Stewardku projektu**, která poskytuje metodickou podporu, konzultace a pomoc s praktickými kroky.
 
-**E‑mail:** zemanova@ucl.cas.cz (Veronika Zemanová, Ústav pro českou literaturu AV ČR)
+**E‑mail:** zemanova@ucl.cas.cz ([Veronika Zemanová](https://ucl.cas.cz/pracovnik/zemanova/), Ústav pro českou literaturu AV ČR)
 
 ---
 
