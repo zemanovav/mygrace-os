@@ -37,7 +37,7 @@ Data uložená v repozitáři mají být zpřístupněna:
 - ideálně pod licencí **CC BY 4.0**,  
 - s ohledem na ochranu osobních údajů, důvěrnost, obchodní zájmy, bezpečnost a další legitimní omezení.
 
-Pokud nejsou některá data otevřená, **musí být toto zdůvodnění uvedeno v Plánu správy dat** a pravidelně přezkoumáváno.
+Správa dat se řídí pravidlem: „otevřené jak jen možno, uzavřené jen jak nutno“ – pokud není možné z oprávněných důvodů poskytnout data v otevřeném přístupu, **musí to být odůvodněno v Plánu správy dat** a pravidelně přezkoumáváno.
 
 ---
 
