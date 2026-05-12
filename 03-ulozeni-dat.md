@@ -27,14 +27,14 @@ Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore 
 ## 🏷️ Připravit popis dat = metadata
 Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahovat všechny údaje dle [Obecného doporučení pro metadatový popis výzkumných výstupů a výzkumných dat](https://doi.org/10.48813/yt6w-6h15):
 
-- název datasetu  
-- celá jména autorů, jejich afiliaci a jejich trvalý identifikátor ORCID
-- datum zveřejnění
-- vydavatel (mateřská instituce autora) a její trvalý identifikátor ROR  
-- popis dat (co obsahují, jak vznikla)
-- pokud budou data zveřejněna, tak licenci(ideálně **CC BY 4.0** a pokud jinou, tak je třeba výběr varianty licence odůvodnit)
-- pokud nebudou data zveřejněna, tak odůvodnění tohoto rozhodnutí
-- návaznost na financování
+- název datasetu,  
+- celá jména autorů, jejich afiliaci a jejich trvalý identifikátor ORCID,
+- datum zveřejnění,
+- vydavatel (mateřská instituce autora) a její trvalý identifikátor ROR,  
+- popis dat (co obsahují, jak vznikla),
+- pokud budou data zveřejněna, tak licenci(ideálně **CC BY 4.0** a pokud jinou, tak je třeba výběr varianty licence odůvodnit),
+- pokud nebudou data zveřejněna, tak odůvodnění tohoto rozhodnutí,
+- návaznost na financování.
 
 ---
 <br>
@@ -44,9 +44,9 @@ Data ukládejte v běžně používaných a ideálně otevřených formátech.
 
 Příklady doporučených formátů pro různé typy dat:
 
-- textová data - PDF/A, ODT, Microsoft Word (.doc/.docx), TXT
-- obrázková data - JPEG, TIFF, PNG
-- tabulková data - CSV, ODT, Microsoft Excel
+- textová data - PDF/A, ODT, Microsoft Word (.doc/.docx), TXT,
+- obrázková data - JPEG, TIFF, PNG,
+- tabulková data - CSV, ODT, Microsoft Excel.
 
 Doporučené formáty jsou dostupné na webech některých organizací, které se zabývají správou dat, např. [DANS](https://dans.knaw.nl/en/file-formats/) nebo [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/)
 
@@ -56,12 +56,12 @@ Doporučené formáty jsou dostupné na webech některých organizací, které s
 ## 📝 Připravit README soubor
 README je stručný průvodce datasetem. Měl by obsahovat:
 
-- metadata
-- účel datasetu  
-- strukturu souborů  
-- vysvětlení vztahů mezi soubory
-- postup sběru a zpracování dat  
-- informace o případných omezeních a doporučení pro použití  
+- metadata,
+- účel datasetu, 
+- strukturu souborů,  
+- vysvětlení vztahů mezi soubory,
+- postup sběru a zpracování dat,  
+- informace o případných omezeních a doporučení pro použití.  
 
 ---
 <br>
@@ -69,11 +69,11 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 ## 🏛️ Vybrat vhodný důvěryhodný repozitář
 
 - oborový repozitář
-      např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/)
+      např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/),
 - institucionální repozitář
-      ústavy AV ČR mohou využívat [ASEP](https://asep-portal.lib.cas.cz/basic-information/dataset-repository/)
+      ústavy AV ČR mohou využívat [ASEP](https://asep-portal.lib.cas.cz/basic-information/dataset-repository/),
 - obecný repozitář Zenodo
-      využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava)
+      využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava).
 
 ---
 <br>
@@ -91,10 +91,10 @@ README je stručný průvodce datasetem. Měl by obsahovat:
 <br>
 
 ### 📢 Důležitá pravidla pro zveřejňování výzkumných dat
-- Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI
-- Pokud data obsahují osobní a citlivé údaje, musí se data anonymizovat
-- Neanonymizovaná data nikdy nesdílíme ani neukládáme do repozitáře
-- V informovaném souhlasu by se měl respondent vyjádřit k tomu, jak má být s daty nakládáno (zda mohou být uložena v repozitáři a zveřejněna)
+- Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI.
+- Pokud data obsahují osobní a citlivé údaje, musí se data anonymizovat.
+- Neanonymizovaná data nikdy nesdílíme ani neukládáme do repozitáře.
+- V informovaném souhlasu by se měl respondent vyjádřit k tomu, jak má být s daty nakládáno (zda mohou být uložena v repozitáři a zveřejněna).
 
 ---
 <br>
