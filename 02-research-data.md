@@ -10,7 +10,7 @@ Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení pr
 ---
 <br>
 
-## 📋 Povinnosti příjemce
+## Povinnosti příjemce
 
 ### 🗂️ Vypracování a aktualizace Plánu správy dat (DMP)
 Příjemce musí vytvořit Plán správy dat v souladu s FAIR principy a pravidelně jej aktualizovat.  
