@@ -8,7 +8,7 @@ V projektu **MyGRACE** je příjemce povinen zajistit otevřený přístup k pub
 U ostatních typů výsledků (B – odborná kniha, C – kapitola v odborné knize, D – stať ve sborníku) nebo u článků, kde je korespondenční autor afiliován výhradně v zahraničí, není otevřený přístup povinný, je ale doporučován a velmi vítán.
 
 ---
-<bq>
+
 
 ## Povinnosti příjemce
 
