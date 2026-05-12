@@ -1,5 +1,5 @@
 ---
-title: "Nejčastější otázky (FAQ)"
+title: "FAQ"
 ---
 
 # Nejčastější otázky ke správě výzkumných dat
