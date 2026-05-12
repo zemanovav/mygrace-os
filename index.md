@@ -57,4 +57,8 @@ Podrobné odpovědi najdete na stránce:
 
 ---
 
+![Logo projektu](assets/logo.png)
+
+---
+
 *Poslední aktualizace: {{ site.time }}*
