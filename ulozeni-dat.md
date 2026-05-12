@@ -39,7 +39,8 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 ---
 
 ## 3) Data spravovat ve vhodných formátech
-Data ukládejte v běžně používaných a ideálně otevřených formátech
+Data ukládejte v běžně používaných a ideálně otevřených formátech.
+
 Příklady doporučených formátů pro různé typy dat:
 
 - textová data - PDF/A, ODT, Microsoft Word (.doc/.docx), TXT
