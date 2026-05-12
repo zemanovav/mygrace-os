@@ -48,7 +48,6 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 
 
 ---
-<br>
 
 ![Logo projektu](assets/logo.png)
 
