@@ -54,14 +54,16 @@ Doporučené formáty jsou dostupné na webech některých organizací, které s
 <br>
 
 ## 📝 Připravit README soubor
-README je stručný průvodce datasetem. Měl by obsahovat:
+README je stručný průvodce datasetem. Je to jednoduchý textový soubor (.txt), který slouží jako návod nebo úvod k datům. Měl by obsahovat:
 
 - metadata,
 - účel datasetu, 
 - strukturu souborů,  
 - vysvětlení vztahů mezi soubory,
 - postup sběru a zpracování dat,  
-- informace o případných omezeních a doporučení pro použití.  
+- informace o případných omezeních a doporučení pro použití,
+- kontakt na autora nebo vlastníka dat,
+- licenci nebo informaci o možnostech dalšího užití.  
 
 ---
 <br>
