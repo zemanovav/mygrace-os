@@ -13,7 +13,7 @@ Všechny aspekty správy výzkumných dat je vhodné konzultovat s [**data stewa
 
 ## 📦 Připravit data k uložení
 
-V projektu jsou využívány různé typy dat, přičemž některé z nich jsou již bezpečně uložené a spravované příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
+V projektu jsou využívány různé typy dat, přičemž některá z nich jsou již bezpečně uložená a spravovaná příslušnými správci dat. Tato data se do repozitářů neukládají, pokud nejsou v projektu nějak upravena a nevznikla jejich odvozená verze (např. pořízení kopií, transkripcí, soupisu apod. po domluvě s vlastníky dat). Typicky to jsou dokumenty uložené v archivech.
 
 V projektu zároveň vzniká řada nových dat, která jsou popsána v DMP. Informace o nich je v DMP průběžně aktualizována. U těchto dat je důležité rozhodnout, zda je sdílet lze nebo to z oprávněných důvodů není možné. Otevřený přístup k datům se řídí zásadou „otevřené jak jen možno, uzavřené jen jak nutno“ s ohledem na soukromí, ochranu osobních údajů, důvěrnost, oprávněné obchodní zájmy a práva DV třetích stran, bezpečnost státu nebo jiné oprávněné zájmy a jiná oprávněná omezení.
 
