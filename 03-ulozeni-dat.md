@@ -72,13 +72,13 @@ README je stručný průvodce datasetem. Je to jednoduchý textový soubor (.txt
 Repozitář je informační systém určený k dlouhodobému uchovávání a šíření digitálních objektů, tj. zajišťující uložení, ochranu, integritu, autenticitu a zpřístupnění digitálních objektů v dlouhodobém horizontu. Existují registry repozitářů, např. [Re3data.org](https://www.re3data.org/), mezi nejčastěji využívané repozitáře v našich oborech patří:
 - oborový repozitář
 
-      např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/),
+např. pro rozhovory a dotazníky [Český sociálněvědní datový archiv](https://archivdv.soc.cas.cz/),
 - institucionální repozitář
 
-      ústavy AV ČR mohou využívat [ASEP](https://asep-portal.lib.cas.cz/basic-information/dataset-repository/),
+ústavy AV ČR mohou využívat [ASEP](https://asep-portal.lib.cas.cz/basic-information/dataset-repository/),
 - obecný repozitář Zenodo
 
-      využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava).
+využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava).
 
 ---
 <br>
