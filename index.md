@@ -59,6 +59,11 @@ Máte dotazy ke správě výzkumných dat? V rámci projektu MyGRACE se můžete
 - Metodický dopis č. 1 k pravidlům pro žadatele a příjemce – specifická část pro výzvu Společenské a humanitní vědy: člověk a lidstvo v globálních výzvách současnosti, verze 3. Datum účinnosti 2.12.2025
 - Příručka postupů otevřené vědy, verze 1.2. Datum účinnosti 23.2.2026
 
+**Poděkování**
+
+Děkuji kolegyni [Pavle Martinkové](https://orcid.org/0000-0002-1456-4224) za inspiraci a přístup ke struktuře jejího webu o otevřené vědě, který spravuje v rámci projektu [LangInLife](https://langinlife.muni.cz/).
+
+
 ---
 
 *Poslední aktualizace: {{ site.time }}*
