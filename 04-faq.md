@@ -25,4 +25,10 @@ Je však nutné ověřit, **jaká máte oprávnění** s těmito daty nakládat 
 ---
 <br>
 
+## ❓ Máme rozhovory, které obsahují osobní údaje/citlivá data. Musíme je ukládat do repozitáře?
+
+Nejprve musíte rozhovory **anonymizovat** a poté je můžete v repozitáře uložit i zpřístupnit, pokud to není  v rozporu s informovanými souhlasy. Pokud není možné rozhovory anonymizovat (např. z důvodu nízkého počtu respondentů nebo by nebyla při anonymizaci zachována srozumitelnost dat), pak z důvodu ochrany osobních údajů nemůžete taková data uložit do žádného repozitáře. **Vždy byste ale měli vytvořit metadatový záznam v repozitáři**, ve kterém data popíšete, zdůvodníte, proč data nejsou v repozitáři dostupná, a uvedete kontakt, kam se může případný zájemce o data obrátit a domluvit si podmínky přístupu k datům individuálně.
+
+---
+<br>
 ## [🔙 Zpět na hlavní stránku](index.md)
