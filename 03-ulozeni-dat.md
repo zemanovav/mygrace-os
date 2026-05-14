@@ -76,7 +76,8 @@ Repozitář je informační systém určený k dlouhodobému uchovávání a š�
 - institucionální repozitář  
     ústavy AV ČR mohou využívat [ASEP](https://asep-portal.lib.cas.cz/basic-information/dataset-repository/),
 - obecný repozitář Zenodo  
-    využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava).
+    využívá hlavně Ostravská univerzita – [komunita OU](https://zenodo.org/communities/university-of-ostrava),
+    OSU návod pro uložení dat do ZENODO [cze](https://dokumenty.osu.cz/osu/open-science/zenodo-cz.pdf), [eng](https://dokumenty.osu.cz/osu/open-science/zenodo-en.pdf)
 
 
 ---
