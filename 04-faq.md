@@ -31,4 +31,5 @@ Nejprve musíte rozhovory **anonymizovat** a poté je můžete v repozitáře ul
 
 ---
 <br>
+
 ## [🔙 Zpět na hlavní stránku](index.md)
