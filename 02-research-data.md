@@ -29,6 +29,7 @@ Výzkumná data by měla splňovat čtyři základní FAIR principy:
 
 ---
 <br>
+
 ## Povinnosti příjemce
 
 ---
