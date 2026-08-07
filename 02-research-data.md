@@ -9,8 +9,6 @@ Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení pr
 
 ## FAIR principy
 
-Výzkumná data by měla splňovat čtyři základní FAIR principy:
-
 ### 🔎 Findable – data musí být dohledatelná
 
 **V praxi:** Data jsou uložena v důvěryhodném repozitáři, mají přidělený trvalý identifikátor (např. DOI nebo Handle) a jsou opatřena kvalitními metadaty, např. názvem datové sady, tvůrci, datem zveřejnění, popisem dat a informacemi o podmínkách přístupu.
