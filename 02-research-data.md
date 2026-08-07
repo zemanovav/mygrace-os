@@ -28,6 +28,7 @@ Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení pr
 ---
 
 # Povinnosti příjemce
+
 ---
 <br>
 
