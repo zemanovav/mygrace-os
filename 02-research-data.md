@@ -26,7 +26,6 @@ Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení pr
 **V praxi:** Data obsahují informace o tom, jak vznikla, co znamenají a za jakých podmínek je lze používat. Díky tomu mohou data správně pochopit a znovu využít i další výzkumníci.
 
 ---
-<br>
 
 # Povinnosti příjemce
 
