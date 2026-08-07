@@ -7,13 +7,9 @@ title: "Otevřený přístup"
 V projektu **MyGRACE** je příjemce povinen zajistit otevřený přístup k publikačním výsledkům typu **J – recenzovaný odborný článek**.  
 U ostatních typů výsledků (B – odborná kniha, C – kapitola v odborné knize, D – stať ve sborníku) nebo u článků, kde je korespondenční autor afiliován výhradně v zahraničí, není otevřený přístup povinný, je ale doporučován a velmi vítán.
 
----
-<br>
 
 ## Povinnosti příjemce
 
----
-<br>
 
 ### 🔓 Zajištění okamžitého otevřeného přístupu
 Článek musí být dostupný:
@@ -32,8 +28,6 @@ Autoři mohou při komunikaci s editory při zasílání rukopisu k publikován�
 
 “This work has been funded by a grant from the Programme Johannes Amos Comenius under the Ministry of Education, Youth and Sports of the Czech Republic [CZ.02.01.01/00/23_025/0008741]. As set out in the Legal Act, beneficiaries must ensure that the open access to the published version or the final peer-reviewed manuscript accepted for publication is provided immediately after the date of publication via a trusted repository under the latest available version of the Creative Commons Attribution International Public Licence (CC BY).“
 
----
-<br>
 
 ### 💾 Uložení článku do důvěryhodného repozitáře
 Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu z těchto verzí do **důvěryhodného repozitáře**:
@@ -44,8 +38,6 @@ Příjemce musí **bez zbytečného odkladu po dni publikování** uložit jednu
 💡 **Doporučení:** 
 Ústavy AV ČR využívají repozitář [ASEP](https://asep.lib.cas.cz/) | Ostravská univerzita [Zenodo](https://zenodo.org/communities/university-of-ostrava)
 
----
-<br>
 
 ### ✍️ Zachování autorských majetkových práv
 
@@ -55,8 +47,6 @@ Autoři/příjemce musí při uzavírání smlouvy s vydavatelem:
 - udělit pouze **nevýhradní licenci**,  
 - zachovat si právo článek **okamžitě zveřejnit** pod licencí Creative Commons.
 
----
-<br>
 
 ### 🔗 Poskytnutí informací o souvisejících výstupech
 Součástí metadat v repozitáři musí být také:
@@ -64,13 +54,9 @@ Součástí metadat v repozitáři musí být také:
 - odkazy na další výstupy výzkumu,  
 - nástroje nebo data potřebná k ověření závěrů článku.
 
----
-<br>
 
 ### 💶 Způsobilé náklady
 **Autorské publikační poplatky (APC)** za otevřený přístup jsou **způsobilým nákladem projektu**.
 
----
-<br>
 
 ## [🔙 Zpět na hlavní stránku](index.md)
