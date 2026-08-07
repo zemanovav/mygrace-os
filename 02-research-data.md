@@ -33,6 +33,7 @@ Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení pr
 Příjemce musí vytvořit Plán správy dat v souladu s FAIR principy a pravidelně jej aktualizovat.  
 DMP je dostupný členům týmu projektu MyGRACE ve sdíleném cloudu.
 
+--
 
 ### 💾 Uložení výzkumných dat do důvěryhodného repozitáře
 Příjemce musí uložit data **co nejdříve** po jejich vytvoření, v souladu s Plánem správy dat.  
