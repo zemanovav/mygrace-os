@@ -7,7 +7,7 @@ title: "Správa výzkumných dat"
 
 Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení projektu byla spravována **odpovědně a v souladu s FAIR principy**. To zahrnuje zejména vypracování a aktualizaci Plánu správy dat, ukládání dat do důvěryhodných repozitářů a zajištění jejich dostupnosti v souladu s pravidly programu.
 
-## FAIR principy
+# FAIR principy
 
 ### 🔎 Findable – data musí být dohledatelná
 
@@ -28,7 +28,7 @@ Příjemce je povinen zajistit, aby výzkumná data vzniklá během řešení pr
 ---
 <br>
 
-## Povinnosti příjemce
+# Povinnosti příjemce
 
 ---
 <br>
