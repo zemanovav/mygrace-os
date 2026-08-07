@@ -8,8 +8,6 @@ Uložení výzkumných dat do důvěryhodného repozitáře je povinností pří
 
 Všechny aspekty správy výzkumných dat je vhodné konzultovat s [**data stewardkou projektu**](https://ucl.cas.cz/pracovnik/zemanova/).
 
----
-<br>
 
 ## 📦 Připravit data k uložení
 
@@ -21,8 +19,6 @@ Pokud data lze sdílet, vytvoříme k nim popis a uložíme do repozitáře. Pok
 
 Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072)  
 
----
-<br>
 
 ## 🏷️ Připravit popis dat = metadata
 Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahovat všechny údaje dle [Obecného doporučení pro metadatový popis výzkumných výstupů a výzkumných dat](https://doi.org/10.48813/yt6w-6h15):
@@ -36,8 +32,6 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 - pokud nebudou data zveřejněna, tak odůvodnění tohoto rozhodnutí,
 - návaznost na financování.
 
----
-<br>
 
 ## 🗃️ Spravovat data ve vhodných formátech
 Data ukládejte v běžně používaných a ideálně otevřených formátech.
@@ -50,8 +44,6 @@ Příklady doporučených formátů pro různé typy dat:
 
 Doporučené formáty jsou dostupné na webech některých organizací, které se zabývají správou dat, např. [DANS](https://dans.knaw.nl/en/file-formats/) nebo [UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/recommended-formats/)
 
----
-<br>
 
 ## 📝 Připravit README soubor
 README je stručný průvodce datasetem. Je to jednoduchý textový soubor (.txt), který slouží jako návod nebo úvod k datům. Měl by obsahovat:
@@ -65,8 +57,6 @@ README je stručný průvodce datasetem. Je to jednoduchý textový soubor (.txt
 - kontakt na autora nebo vlastníka dat,
 - licenci nebo informaci o možnostech dalšího užití.  
 
----
-<br>
 
 ## 🏛️ Vybrat vhodný důvěryhodný repozitář
 Repozitář je informační systém určený k dlouhodobému uchovávání a šíření digitálních objektů, tj. zajišťující uložení, ochranu, integritu, autenticitu a zpřístupnění digitálních objektů v dlouhodobém horizontu. Existují registry repozitářů, např. [Re3data.org](https://www.re3data.org/), mezi nejčastěji využívané repozitáře v našich oborech patří:
@@ -80,9 +70,6 @@ Repozitář je informační systém určený k dlouhodobému uchovávání a š�
     OSU návod pro uložení dat do ZENODO [cze](https://dokumenty.osu.cz/osu/open-science/zenodo-cz.pdf), [eng](https://dokumenty.osu.cz/osu/open-science/zenodo-en.pdf)
 
 
----
-<br>
-
 ### 🔐 Oprávněné důvody, proč omezit přístup k některým nebo všem výzkumným datům
 - právo na ochranu soukromí,
 - ochrana osobních údajů,
@@ -92,8 +79,6 @@ Repozitář je informační systém určený k dlouhodobému uchovávání a š�
 - rozpor s oprávněnými zájmy příjemce, včetně komerčního využití dat,
 - nebo jiné oprávněné zájmy a jiná oprávněná omezení.
 
----
-<br>
 
 ### 📢 Důležitá pravidla pro zveřejňování výzkumných dat
 - Zveřejněná výzkumná data musí být opatřena trvalým identifikátorem DOI.
@@ -101,7 +86,5 @@ Repozitář je informační systém určený k dlouhodobému uchovávání a š�
 - Neanonymizovaná data nikdy nesdílíme ani neukládáme do repozitáře.
 - V informovaném souhlasu by se měl respondent vyjádřit k tomu, jak má být s daty nakládáno (zda mohou být uložena v repozitáři a zveřejněna).
 
----
-<br>
 
 ## [🔙 Zpět na hlavní stránku](index.md)
