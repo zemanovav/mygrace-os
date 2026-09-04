@@ -17,7 +17,7 @@ V projektu zároveň vzniká řada nových dat, která jsou popsána v DMP. Info
 
 Pokud data lze sdílet, vytvoříme k nim popis a uložíme do repozitáře. Pokud je sdílet nelze, musí se v repozitáři alespoň popsat a uvést kontakt, kam se lze s dotazy na data obrátit.
 
-Příklad zveřejněných dat ve VZ 5: [Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072)  
+Příklad zveřejněných dat ve VZ5: [Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072)  
 
 ---
 
@@ -32,6 +32,9 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 - pokud budou data zveřejněna, tak licenci(ideálně **CC BY 4.0** a pokud jinou, tak je třeba výběr varianty licence odůvodnit),
 - pokud nebudou data zveřejněna, tak odůvodnění tohoto rozhodnutí,
 - návaznost na financování.
+
+Příklad metadatového záznamu ve VZ1 (data není možné v dostatečné míře anonymizovat, proto nejsou uložena v repozitáři, ale jsou v něm popsána bohatým popis):
+[Rozhovory s hudebnicemi, organizátorkami a dalšími účastnicemi hudebně tanečních interpretačních a pedagogických aktivit z česko-vídeňské komunity]: (https://doi.org/10.14473/CSDA/NC27CL)
 
 ---
 
