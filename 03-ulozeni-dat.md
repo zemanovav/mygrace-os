@@ -34,7 +34,7 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 - návaznost na financování.
 
 Příklad metadatového záznamu ve VZ1 (data není možné v dostatečné míře anonymizovat, proto nejsou uložena v repozitáři, ale jsou v něm popsána bohatým popis):
-[Rozhovory s hudebnicemi, organizátorkami a dalšími účastnicemi hudebně tanečních interpretačních a pedagogických aktivit z česko-vídeňské komunity]: (https://doi.org/10.14473/CSDA/NC27CL)
+[Rozhovory s hudebnicemi, organizátorkami a dalšími účastnicemi hudebně tanečních interpretačních a pedagogických aktivit z česko-vídeňské komunity](https://doi.org/10.14473/CSDA/NC27CL)
 
 ---
 
