@@ -33,7 +33,7 @@ Metadata pomáhají ostatním data najít a pochopit. Minimálně musí obsahova
 - pokud nebudou data zveřejněna, tak odůvodnění tohoto rozhodnutí,
 - návaznost na financování.
 
-Příklad metadatového záznamu ve VZ1 (data není možné v dostatečné míře anonymizovat, proto nejsou uložena v repozitáři, ale jsou v něm popsána bohatým popis):
+Příklad metadatového záznamu ve VZ1 (data není možné v dostatečné míře anonymizovat, proto nejsou uložena v repozitáři, ale jsou popsána bohatým popisem):
 [Rozhovory s hudebnicemi, organizátorkami a dalšími účastnicemi hudebně tanečních interpretačních a pedagogických aktivit z česko-vídeňské komunity](https://doi.org/10.14473/CSDA/NC27CL)
 
 ---
