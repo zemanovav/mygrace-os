@@ -18,8 +18,10 @@ V projektu zároveň vzniká řada nových dat, která jsou popsána v DMP. Info
 Pokud data lze sdílet, vytvoříme k nim popis a uložíme do repozitáře. Pokud je sdílet nelze, musí se v repozitáři alespoň popsat a uvést kontakt, kam se lze s dotazy na data obrátit.
 
 Příklad zveřejněných dat ve VZ5: 
-[Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072)  
+[Dvořáček, Karel_manuscripts_folklore narratives about "Antek"](https://doi.org/10.5281/zenodo.19615072) 
+
 [Inventory of folklore texts in Karel Dvořáček´s personal papers](https://doi.org/10.5281/zenodo.22247036)
+
 [Tematika hranice v ústní slovesnosti Zaolží](https://doi.org/10.5281/zenodo.19607132)
 
 ---
